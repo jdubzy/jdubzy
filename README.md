@@ -4,7 +4,6 @@ hello github, my name is jojo. my github page is just little projects i do for f
 socials:
 
    [mastodon](https://mastodon.social/@boringaccount)
-
    [instagram](https://www.instagram.com/goodboyjojo13/)
 
   [youtube](https://www.youtube.com/channel/UCuo27j5v4VwCH4ngENMiEDg)
