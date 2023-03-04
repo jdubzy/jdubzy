@@ -1,16 +1,16 @@
-### Hi there 👋
+## jdubzy
+hello github, my name is jojo. my github page is just little projects i do for fun and to learn programming.
 
-<!--
-**jdubzy/jdubzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+socials:
+[mastodon](https://mastodon.social/@boringaccount)
+[instagram](https://www.instagram.com/goodboyjojo13/)
+[youtube](https://www.youtube.com/channel/UCuo27j5v4VwCH4ngENMiEDg)
 
-Here are some ideas to get you started:
+where i post my games:
+[itch.io](https://jdubzy.itch.io/)
+[newgrounds.com](https://goodboyjojo.newgrounds.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+what i am:
+-just some guy on the internet
+-an game dev
+-finds computers interesting sometime
