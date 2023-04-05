@@ -13,4 +13,3 @@ where i post my games:
 
   [itch.io](https://jdubzy.itch.io/)
 
-  [newgrounds.com](https://goodboyjojo.newgrounds.com/)
