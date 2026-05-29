@@ -1,15 +1,7 @@
 ## jdubzy
-hello github, my name is jojo. my github page is just little projects i do for fun and to learn programming.
 
-socials:
+hello everybody my name is jojo and welcome to my github page. im mainly interested in game development and making small apps and software.
+also, i am a avid video game player and like to make small indie games in many different game engines. aswell as make small software for fun
 
-   [mastodon](https://mastodon.social/@boringaccount)
-   
-   [instagram](https://www.instagram.com/goodboyjojo13/)
-
-   [youtube](https://www.youtube.com/channel/UCuo27j5v4VwCH4ngENMiEDg)
-
-where i post my games:
-
-  [itch.io](https://jdubzy.itch.io/)
-
+the programming languages im using and currently learning:
+![bash](logos/bash.png) ![javascript](logos/javascript.png) ![lua](logos/lua.png) ![python](logos/python.png)
